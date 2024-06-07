@@ -1,1 +1,1 @@
-# DevCoin-BNB
+# DevCoin Developer Network
